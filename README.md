@@ -1,4 +1,4 @@
-# DALL-E-2-
+# DALL-E-2
 
 DALL-E 2 is a state-of-the-art deep learning model developed by OpenAI. It's a generative model that can generate diverse, high-quality images from textual descriptions. The model is based on a transformer architecture and is trained on a large dataset of images and textual descriptions.
 
@@ -7,7 +7,8 @@ With DALL-E 2, you can provide a textual description of an image you'd like to g
 Overall, DALL-E 2 is a remarkable example of the latest advances in deep learning and computer vision, and it showcases the potential for AI to be used for creative applications.
 
 ### Example 1:- astronaut riding on horse in space
-![Z](https://user-images.githubusercontent.com/99650506/218293328-3989fd68-ffb7-4efc-80ff-6bdef85a0268.jpg)
+![9](https://user-images.githubusercontent.com/99650506/218293516-a706c29d-164f-4413-a815-7234a63dbb17.jpg)
+
 
 
 
